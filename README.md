@@ -57,7 +57,7 @@ Supporting directories:
 - `scripts`
 - `tarsier`
 
-See [video_annotator/README.md](https://github.com/CaiLab-neuro/video_annotator.git).
+See [video-annotator/README.md](https://github.com/CaiLab-neuro/Video-Annotator).
 
 ## Suggested Workflow
 
