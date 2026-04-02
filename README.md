@@ -10,7 +10,7 @@ This top-level repository groups the three component tools in one workspace:
 
 - `Video_Synchronizer` for aligning recordings with audio-based synchronization
 - `Sam2UI` for object segmentation and gaze-target annotation
-- `video_annotator` for automated behavioral video annotation
+- `Video-Annotator` for automated behavioral video annotation
 
 ## Repository Structure
 
@@ -63,7 +63,7 @@ See [video-annotator/README.md](https://github.com/CaiLab-neuro/Video-Annotator)
 
 1. Use `Video_Synchronizer` to align recordings.
 2. Use `Sam2UI` to segment objects and support gaze-target annotation.
-3. Use `video_annotator` to generate behavioral annotations from video segments.
+3. Use `Video-Annotator` to generate behavioral annotations from video segments.
 
 ## Installation
 
