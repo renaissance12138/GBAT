@@ -33,7 +33,7 @@ Top-level files:
 - `install.py`
 - `sam2_ui.py`
 - `process_annotations.py`
-- `gazed_object_published_version.py`
+- `process_gaze_mask_alignment.py`
 - `segment.py`
 
 See [Sam2UI/README.md](https://github.com/CaiLab-neuro/Sam2UI.git).
